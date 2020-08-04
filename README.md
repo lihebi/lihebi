@@ -1,5 +1,7 @@
 ### 哦？
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=lihebi&count_private=true&show_icons=true)
+
 <!--
 **lihebi/lihebi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
